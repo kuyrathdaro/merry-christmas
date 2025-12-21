@@ -1,4 +1,4 @@
-# Merry Christmas 🎅❄️☃️🎄
+# Merry Christmas 1 🎅❄️☃️🎄
 
 This project is a festive web application built with React and Three.js, featuring a 3D snow globe and a snow particle background. The application uses Vite for fast development and bundling.
 
